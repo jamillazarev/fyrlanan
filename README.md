@@ -41,5 +41,5 @@ var flippablBlock = new Fyrlanan({
 
 <h2>Dependencies</h2>
 
-GSAP TimelineLite
-GSAP EasePack
+* GSAP TimelineLite
+* GSAP EasePack
