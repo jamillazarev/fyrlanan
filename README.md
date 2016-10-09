@@ -20,26 +20,26 @@
 
 ```javascript
 // Initialization
-var something = new Fyrlanan({selector: '.fyrlananBlock'})
+var fyrlananBlock = new Fyrlanan({selector: '.fyrlananBlock'})
 
 // Flip from the left side
-something.cevirmek('soldan')
+fyrlananBlock.cevirmek('soldan')
 
 // Flip from the right side
-something.cevirmek('sagdan')
+fyrlananBlock.cevirmek('sagdan')
 ```
 
 <h2>Settings</h2>
 ```javascript
 // Advanced initialization
-var something = new Fyrlanan({
+var fyrlananBlock = new Fyrlanan({
   selector: '.fyrlananBlock',
   perspective: 1000,
   duration: .8,
   scale: 1.4,
   z: -500,
   ease: "Power3.easeInOut",
-  @shadows: ["0px 60px 80px 0px rgba(0,0,0,0.16)", "0px 80px 120px 0px rgba(0,0,0,0.04)"]
+  shadows: ["0px 60px 80px 0px rgba(0,0,0,0.16)", "0px 80px 120px 0px rgba(0,0,0,0.04)"]
 })
 ```
 
