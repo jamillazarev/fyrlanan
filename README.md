@@ -5,6 +5,18 @@
 [![fyrlanan.gif](https://s21.postimg.org/yesd5ijw7/fyrlanan.gif)](https://postimg.org/image/vkp7s2hpv/)
 
 <h2>Simple usage</h2>
+```html
+<div>
+  <div class="something">
+    <div>
+      front
+    </div>
+    <div>
+      back
+    </div>
+  </div>
+</div>
+```
 
 ```javascript
 // Initialization
