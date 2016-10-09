@@ -13,7 +13,7 @@ $("form").click(function(){
 <p>JS module for easy to use flippable blocks</p>
 
 <h2>Simple usage</h2>
-<pre>
+
 ```javascript
 // Initialization
 var flippablBlock = new Fyrlanan({selector: '.fyrlananBlock'})
@@ -24,7 +24,6 @@ flippableBlock.cevirmek('soldan')
 // Flip from the right side
 flippableBlock.cevirmek('sagdan')
 ```
-</pre>
 
 <h2>Advanced usage</h2>
 <pre>
