@@ -2,6 +2,8 @@
 
 <p>JS module for easy to use flippable blocks</p>
 
+[![fyrlanan.gif](https://s21.postimg.org/yesd5ijw7/fyrlanan.gif)](https://postimg.org/image/vkp7s2hpv/)
+
 <h2>Simple usage</h2>
 
 ```javascript
