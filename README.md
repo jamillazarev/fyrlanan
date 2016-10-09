@@ -7,7 +7,7 @@
 <h2>Usage</h2>
 ```html
 <div>
-  <div class="something">
+  <div class="fyrlananBlock">
     <div>
       front
     </div>
