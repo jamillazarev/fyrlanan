@@ -6,19 +6,19 @@
 
 ```javascript
 // Initialization
-var flippablBlock = new Fyrlanan({selector: '.fyrlananBlock'})
+var something = new Fyrlanan({selector: '.fyrlananBlock'})
 
 // Flip from the left side
-flippableBlock.cevirmek('soldan')
+something.cevirmek('soldan')
 
 // Flip from the right side
-flippableBlock.cevirmek('sagdan')
+something.cevirmek('sagdan')
 ```
 
 <h2>Settings</h2>
 ```javascript
 // Advanced initialization
-var flippablBlock = new Fyrlanan({
+var something = new Fyrlanan({
   selector: '.fyrlananBlock',
   perspective: 1000,
   duration: .8,
