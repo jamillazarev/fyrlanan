@@ -1,13 +1,3 @@
-# fyrlanan
-JS module for easy to use flippable blocks
-
-usage
-var flippableBlock = new Fyrlanan({selector: '.fyrlananBlock'})
-
-$("form").click(function(){
-  card.cevirmek('soldan')
-});
-
 <h1>fyrlanan</h1>
 
 <p>JS module for easy to use flippable blocks</p>
