@@ -45,5 +45,5 @@ var fyrlananBlock = new Fyrlanan({
 
 <h2>Dependencies</h2>
 
-* GSAP TimelineLite
+* GSAP TweenLite
 * GSAP EasePack
