@@ -23,10 +23,10 @@
 var fyrlananBlock = new Fyrlanan({selector: '.fyrlananBlock'})
 
 // Flip from the left side
-fyrlananBlock.cevirmek('soldan')
+fyrlananBlock.cevir('soldan')
 
 // Flip from the right side
-fyrlananBlock.cevirmek('sagdan')
+fyrlananBlock.cevir('sagdan')
 ```
 
 <h2>Settings</h2>
