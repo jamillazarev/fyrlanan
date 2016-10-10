@@ -27,7 +27,7 @@ var Fyrlanan = Fyrlanan = (function() {
     });
   }
 
-  Fyrlanan.prototype.cevirmek = function(direction) {
+  Fyrlanan.prototype.cevir = function(direction) {
     var current, next;
     if (this.canimate) {
       this.canimate = false;
