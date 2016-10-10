@@ -38,7 +38,7 @@ var fyrlananBlock = new Fyrlanan({
   duration: .8,
   scale: 1.4,
   z: -500,
-  ease: "Power3.easeInOut",
+  ease: Power3.easeInOut,
   shadows: ["0px 60px 80px 0px rgba(0,0,0,0.16)", "0px 80px 120px 0px rgba(0,0,0,0.04)"]
 })
 ```
@@ -46,4 +46,5 @@ var fyrlananBlock = new Fyrlanan({
 <h2>Dependencies</h2>
 
 * GSAP TweenLite
+* GSAP CSSPlugin
 * GSAP EasePack
