@@ -1,0 +1,35 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ddd;
+  text-align: center;
+  font-family: "Arial", sans-serif;
+}
+
+.fyrlananBlockWrapper {
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  height: 180px;
+  margin: -160px 0 0 -90px;
+}
+
+.fyrlananBlock {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.fyrlananBlock > div {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+p {
+  margin-bottom: 60px;
+}

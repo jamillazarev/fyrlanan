@@ -35,10 +35,10 @@ fyrlananBlock.cevir('sagdan')
 var fyrlananBlock = new Fyrlanan({
   selector: '.fyrlananBlock',
   perspective: 1000,
-  duration: .8,
+  duration: 2,
   scale: 1.4,
-  z: -500,
-  ease: "Power3.easeInOut",
+  z: -750,
+  ease: Expo.easeInOut,
   shadows: ["0px 60px 80px 0px rgba(0,0,0,0.16)", "0px 80px 120px 0px rgba(0,0,0,0.04)"]
 })
 ```
@@ -47,3 +47,4 @@ var fyrlananBlock = new Fyrlanan({
 
 * GSAP TweenLite
 * GSAP EasePack
+* GSAP CSSPlugin

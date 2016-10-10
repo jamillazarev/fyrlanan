@@ -60,7 +60,5 @@ var Fyrlanan = Fyrlanan = (function() {
       this.nextSide = current;
     }
   };
-
   return Fyrlanan;
-
 })();
