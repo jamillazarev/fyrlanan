@@ -1,6 +1,6 @@
 # fyrlanan
 
-JS module for easy to use flippable blocks
+Easy to use flippable blocks
 
 [![fyrlanan.gif](https://s21.postimg.org/yesd5ijw7/fyrlanan.gif)](https://postimg.org/image/vkp7s2hpv/)
 
