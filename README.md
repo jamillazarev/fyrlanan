@@ -1,10 +1,10 @@
-<h1>fyrlanan</h1>
+# fyrlanan
 
-<p>JS module for easy to use flippable blocks</p>
+JS module for easy to use flippable blocks
 
 [![fyrlanan.gif](https://s21.postimg.org/yesd5ijw7/fyrlanan.gif)](https://postimg.org/image/vkp7s2hpv/)
 
-<h2>Usage</h2>
+## Usage
 ```html
 <div>
   <div class="fyrlananBlock">
@@ -29,7 +29,7 @@ fyrlananBlock.cevir('soldan')
 fyrlananBlock.cevir('sagdan')
 ```
 
-<h2>Settings</h2>
+## Settings
 ```javascript
 // Advanced initialization
 var fyrlananBlock = new Fyrlanan({
@@ -43,7 +43,7 @@ var fyrlananBlock = new Fyrlanan({
 })
 ```
 
-<h2>Dependencies</h2>
+## Dependencies
 
 * GSAP TweenLite
 * GSAP EasePack
