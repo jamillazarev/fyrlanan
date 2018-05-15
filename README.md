@@ -2,7 +2,7 @@
 
 Easy to use flippable blocks
 
-[![fyrlanan.gif](https://s21.postimg.org/yesd5ijw7/fyrlanan.gif)](https://postimg.org/image/vkp7s2hpv/)
+[![fyrlanan.gif](https://preview.ibb.co/kbQPvd/May_15_2018_22_45_15.gif)](https://postimg.org/image/vkp7s2hpv/)
 
 ## Usage
 ```html

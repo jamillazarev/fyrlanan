@@ -1,7 +1,7 @@
 var fyrlananBlock = new Fyrlanan({
   selector: '.fyrlananBlock',
   perspective: 1000,
-  duration: 2,
+  duration: 1.8,
   scale: 1.4,
   z: -750,
   ease: Expo.easeInOut,
