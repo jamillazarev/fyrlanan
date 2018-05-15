@@ -2,7 +2,7 @@
 
 Easy to use flippable blocks
 
-[![fyrlanan.gif](https://thumbs.gfycat.com/RashThoseCanadagoose-size_restricted.gif)]
+![fyrlanan.gif](https://thumbs.gfycat.com/RashThoseCanadagoose-size_restricted.gif)
 
 ## Usage
 ```html
