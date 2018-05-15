@@ -2,7 +2,7 @@
 
 Easy to use flippable blocks
 
-[![fyrlanan.gif](https://preview.ibb.co/kbQPvd/May_15_2018_22_45_15.gif)](https://postimg.org/image/vkp7s2hpv/)
+[![fyrlanan.gif](https://thumbs.gfycat.com/RashThoseCanadagoose-size_restricted.gif)](https://postimg.org/image/vkp7s2hpv/)
 
 ## Usage
 ```html
@@ -29,7 +29,7 @@ fyrlananBlock.cevir('soldan')
 fyrlananBlock.cevir('sagdan')
 ```
 
-## Settings
+## Options
 ```javascript
 // Advanced initialization
 var fyrlananBlock = new Fyrlanan({
